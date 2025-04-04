@@ -1,5 +1,17 @@
 <h1 align="center">Hello, World! I'm Ruturaj Sutar.</h1>
 <h3 align="center">A passionate Computer Science Student From India</h3>
+---
+
+## 🙋‍♂️ About Me
+
+I am a second-year Computer Science and Engineering student at VIT Pune, deeply interested in the convergence of technology and entrepreneurship. My enthusiasm lies in exploring innovative startup ideas and staying abreast of emerging tech trends.
+
+I am captivated by the transformative power of technology to make a significant impact on society. My dedication drives me to leverage cutting-edge advancements to address real-world challenges and develop impactful solutions. I actively seek opportunities to collaborate, learn, and contribute to projects that push the boundaries of technology.
+
+Let's connect and explore the endless possibilities together!
+
+---
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruturajs29&label=Profile%20views&color=0e75b6&style=flat" alt="ruturajs29" /> </p>
 
