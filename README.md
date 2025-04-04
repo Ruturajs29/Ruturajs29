@@ -1,5 +1,9 @@
-<h1 align="center">Hello, World! I'm Ruturaj Sutar.</h1>
-<h3 align="center">A passionate Computer Science Student From India</h3>
+<h1 align="center">
+  Hello, World! I'm Ruturaj Sutar
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+</h1>
+<h3 align="center">A passionate Computer Science Student from India</h3>
+
 ---
 
 ## About Me
