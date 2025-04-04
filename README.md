@@ -1,9 +1,11 @@
-<h1 align="center">
-  Hello, World! I'm Ruturaj Sutar
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
-</h1>
-<h3 align="center">A passionate Computer Science Student from India</h3>
+<p align="center">
+  <img src="[YOUR_IMAGE_URL](https://www.google.com/url?sa=i&url=https%3A%2F%2Flinkedinheaders.com%2Funcategorized%2Focean-sunset%2F&psig=AOvVaw2Nzx9W9Q7N3-sPIONxidR_&ust=1743856108318000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjuzbewvowDFQAAAAAdAAAAABAE)" alt="Background Banner" width="100%">
+</p>
 
+<h1 align="center">👋 Hey there, I'm Ruturaj Sutar! 🚀</h1>
+<h3 align="center">A Passionate Computer Science Student & Tech Enthusiast from India 🇮🇳</h3>
+
+---
 ---
 
 ## About Me
