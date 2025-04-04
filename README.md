@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Student From India</h3>
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 I am a second-year Computer Science and Engineering student at VIT Pune, deeply interested in the convergence of technology and entrepreneurship. My enthusiasm lies in exploring innovative startup ideas and staying abreast of emerging tech trends.
 
