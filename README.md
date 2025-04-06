@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm Ruturaj Sutar! </h1>
-<h3 align="center">A Passionate Computer Science Student & Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A Passionate Computer Science Student & Tech Enthusiast from India</h3>
 
 ---
 ---
