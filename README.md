@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a second-year Computer Science and Engineering student at VIT Pune, deeply interested in the convergence of technology and entrepreneurship. My enthusiasm lies in exploring innovative startup ideas and staying abreast of emerging tech trends.
+I am a third-year Computer Science and Engineering student at VIT Pune, deeply interested in the convergence of technology and entrepreneurship. My enthusiasm lies in exploring innovative startup ideas and staying abreast of emerging tech trends.
 
 I am captivated by the transformative power of technology to make a significant impact on society. My dedication drives me to leverage cutting-edge advancements to address real-world challenges and develop impactful solutions. I actively seek opportunities to collaborate, learn, and contribute to projects that push the boundaries of technology.
 
