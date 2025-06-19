@@ -25,7 +25,6 @@ Let's connect and explore the endless possibilities together!
 </p>
 
 ## 🛠️ Technical Skills
-
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -42,6 +41,7 @@ Let's connect and explore the endless possibilities together!
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### Developer Tools
 
@@ -53,6 +53,7 @@ Let's connect and explore the endless possibilities together!
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Arduino Uno](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Libraries
 
@@ -60,9 +61,12 @@ Let's connect and explore the endless possibilities together!
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=Matplotlib&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-512BD4?style=flat&logo=ggplot2&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturajs29&show_icons=true&locale=en&layout=compact" alt="ruturajs29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruturajs29&show_icons=true&locale=en" alt="ruturajs29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruturajs29&" alt="ruturajs29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruturajs29&"  /></p>
