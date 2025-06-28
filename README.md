@@ -22,7 +22,7 @@ Let's connect and explore the endless possibilities together!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ruturaj-sutar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ruturaj-sutar-678166216" height="30" width="40" /></a>
-  <a href="[https://leetcode.com/ruturaj_sutar](https://leetcode.com/u/ruturajsutar2929/)/" target="_blank">
+  <a href="https://leetcode.com/u/ruturajsutar2929/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="leetcode.com/ruturaj_sutar" height="30" width="40" />
 </a>
 
